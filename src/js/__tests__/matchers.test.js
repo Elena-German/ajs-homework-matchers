@@ -1,4 +1,5 @@
 import sortMatchers from '../matchers';
+
 test('test sortMatchers function', () => {
   const result = sortMatchers([
     { name: 'мечник', health: 10 },
